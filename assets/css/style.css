@@ -63,3 +63,9 @@ a:focus, button:focus, .btn:focus {
   padding-top: 4rem;
   padding-bottom: 4rem;
 }
+
+
+/* Affirmations */
+.affirmations{ background: #eaf7f5; }
+
+h1, h2, .navbar-brand { letter-spacing: .2px; }
